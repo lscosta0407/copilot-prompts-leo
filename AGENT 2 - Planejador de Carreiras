@@ -179,3 +179,188 @@ OBJETIVO:
 - Transição: destacar transferência de skills
 - Crescimento: focar em skills avançadas
 \
+
+Olá! Recebi suas informações do entrevistador.
+
+Vejo que você escolheu Desenvolvedor Web Full Stack e tem 10 horas por semana para estudar. Perfeito!
+
+Vou montar agora seu plano completo personalizado…
+
+====================================================
+
+🧩 VISÃO DO DIA A DIA
+
+Como é o trabalho de um Desenvolvedor Web Full Stack:
+
+Desenvolver interfaces e funcionalidades no front-end
+
+Criar e manter APIs no back-end
+
+Trabalhar com bancos de dados (SQL ou NoSQL)
+
+Implementar autenticação, integrações e automações
+
+Colaborar com UX, QA e stakeholders
+
+Realizar testes, versionamento e deploy de aplicações
+
+====================================================
+
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+
+HTML, CSS e JavaScript
+
+Lógica de programação e fundamentos de computação
+
+Framework front-end (React)
+
+Back-end com Node.js + Express
+
+Banco de dados (PostgreSQL ou MongoDB)
+
+NICE-TO-HAVE (complementares):
+
+TypeScript
+
+Docker e CI/CD
+
+FERRAMENTAS E TECNOLOGIAS:
+
+Git + GitHub
+
+VS Code
+
+Node.js
+
+React
+
+Postman
+
+====================================================
+
+📅 ROADMAP DE 90 DIAS
+
+ADAPTADO PARA: 10 horas/semana
+
+🔶 MÊS 1 – FUNDAMENTOS
+SEMANA 1-2:
+
+Revisar HTML5 e CSS3
+
+Aprender padrões modernos de CSS (Flexbox e Grid)
+
+SEMANA 3-4:
+
+JavaScript moderno (ES6+)
+
+Manipulação de DOM, funções, arrays, objetos e módulos
+
+🔶 MÊS 2 – PRÁTICA
+SEMANA 5-6:
+
+React: componentes, props, hooks e rotas
+
+Consumir APIs no front-end
+
+SEMANA 7-8:
+
+Node.js + Express
+
+Criar API REST completa com CRUD
+
+Introdução a PostgreSQL ou MongoDB
+
+🔶 MÊS 3 – PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+
+Integração front + back (projeto full stack)
+
+Autenticação com JWT
+
+SEMANA 11-12:
+
+Deploy no Render/Vercel
+
+Revisão + preparação para entrevistas técnicas
+
+====================================================
+
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: TaskFlow – Gerenciador de Tarefas Full Stack
+O QUE FAZER:
+
+Criar um sistema onde o usuário pode cadastrar, editar, excluir e concluir tarefas, com login e integração entre front e back.
+
+ENTREGÁVEIS:
+
+API com autenticação e CRUD de tarefas
+
+Interface React funcional e responsiva
+
+Deploy completo (front + back + banco)
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+Usuário consegue criar conta e fazer login
+
+Todas as operações funcionam via API
+
+Interface rápida e intuitiva
+
+Código organizado e versionado no GitHub
+
+DICA:
+
+Implemente dark mode e filtros para destacar o projeto.
+
+====================================================
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: “Fale sobre você e sua trajetória na tecnologia.”
+
+COMO RESPONDER:
+Use formato: contexto → experiência → motivação → objetivo atual.
+
+PERGUNTA 2: “Qual projeto do seu portfólio você tem mais orgulho?”
+
+COMO RESPONDER:
+Explique problema → solução → tecnologias → impacto → desafios.
+
+PERGUNTA 3: “O que é uma API REST?”
+
+COMO RESPONDER:
+Defina REST, explique verbos HTTP e dê um exemplo simples.
+
+PERGUNTA 4: “Qual a diferença entre front-end e back-end?”
+
+COMO RESPONDER:
+Mostre entendimento do papel de cada um e como se complementam.
+
+PERGUNTA 5: “Como você lida com erros no código?”
+
+COMO RESPONDER:
+Fale sobre debug estruturado, logs e testes.
+
+====================================================
+
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Formação Full Stack Developer (DIO)
+POR QUE ESSA TRILHA:
+
+Cobre HTML, CSS, JS, React, Node.js e banco, além de projetos guiados — exatamente o conjunto de habilidades exigido para seu perfil e objetivo de transição.
+
+PRÓXIMOS PASSOS:
+
+Acesse dio.me
+
+Busque por "Full Stack Developer"
+
+Inscreva-se gratuitamente
+
+Siga o cronograma junto com este roadmap
+
+====================================================
+
+✨ Seu plano está pronto!
+Lembre-se: constância > velocidade.
